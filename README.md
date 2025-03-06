@@ -2,7 +2,7 @@
 ### Training to prepare for Open Source Software Development #13 
 ### Bachelor of Science Program in Software Engineering Faculty of Informatics, Burapha University
 
-📅 **เวลา** 08:00 - 16:00 น.  
+📅 **เวลา** วันเสาร์ที่ 8 มีนาคม 2568 08:00 - 16:00 น.  
 📍 **สถานที่** IF-11M280  
 
 ## **08:00 - 08:30 น.** | 📋 **ลงทะเบียน & เตรียมความพร้อม**  
