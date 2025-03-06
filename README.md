@@ -1,4 +1,6 @@
-# 🛠 **Workshop: Using Docker & Git for Software Delivery**  
+# 🛠 **Using Docker & Git for Software Delivery**  
+### Training to prepare for Open Source Software Development #13 Bachelor of Science Program in Software Engineering Faculty of Informatics, Burapha University
+
 📅 **เวลา** 08:00 - 16:00 น.  
 📍 **สถานที่** IF-11M280  
 
